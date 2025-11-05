@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Pagamento Software</title>
+</head>
+<body>
+
+<h2>Acquista Licenza Software</h2>
+
+<label>Inserisci il parametro necessario (es: Codice macchina):</label><br>
+<input id="license_param" type="text" required><br><br>
+
+<div id="paypal-button-container"></div>
+
+<!-- Carica SDK PayPal -->
+<script src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID&currency=EUR"></script>
+
+<script>
+paypal.Buttons({
+  createOrder: function(data, actions) {
+    const customParam = document.getElementById("license_param").value.trim();
+
+    if(customParam === "") {
+      alert("Devi inserire il parametro richiesto!");
+      return;
+    }
+
+    return actions.order.create({
+      purchase_units: [{
+        amount: { value: '10.00' }, // prezzo in euro
+        custom_id: customParam // <-- parametro che riceverai in n8n
+      }]
+    });
+  },
+  onApprove: function(data, actions) {
+    return actions.order.capture().then(function(orderData) {
+      alert("Pagamento completato! Riceverai la licenza via email.");
+    });
+  }
+}).render('#paypal-button-container');
+</script>
+
+</body>
+</html>
