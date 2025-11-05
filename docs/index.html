@@ -1,45 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Pagamento Software</title>
-</head>
-<body>
-
-<h2>Acquista Licenza Software</h2>
-
-<label>Inserisci il codice macchina di Fusion 360:</label><br>
-<input id="license_param" type="text" required><br><br>
-
-<div id="paypal-button-container"></div>
-
-<!-- Carica SDK PayPal -->
-<script src="https://www.paypal.com/sdk/js?client-id=Ad0JjBInRgKPIOA3Z6LeFNm1v751VvHbjt8dj3dBV-lgOk7SSSf_PHeRBYvW3thzWsEZLWb0Bzrsruh0&currency=EUR"></script>
-
-<script>
-paypal.Buttons({
-  createOrder: function(data, actions) {
-    const customParam = document.getElementById("license_param").value.trim();
-
-    if(customParam === "") {
-      alert("Devi inserire il parametro richiesto!");
-      return;
-    }
-
-    return actions.order.create({
-      purchase_units: [{
-        amount: { value: '0,00' }, // prezzo in euro
-        custom_id: customParam // <-- parametro che riceverai in n8n
-      }]
-    });
-  },
-  onApprove: function(data, actions) {
-    return actions.order.capture().then(function(orderData) {
-      alert("Pagamento completato! Riceverai la licenza via email.");
-    });
-  }
-}).render('#paypal-button-container');
+<script 
+  src="https://www.paypal.com/sdk/js?client-id=BAAtSlwnB8FoE8Tf_dm87JIkZw_eYt38KL1jD5MmK4ev45cpuWn_IDqcXkCLYRRFQjEHIpAv8I0GbUwWWU&components=hosted-buttons&disable-funding=venmo&currency=EUR">
 </script>
-
-</body>
-</html>
+<div id="paypal-container-TTMP4DGZHTJY8"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "TTMP4DGZHTJY8",
+  }).render("#paypal-container-TTMP4DGZHTJY8")
+</script>
