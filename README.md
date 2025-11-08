@@ -128,7 +128,34 @@ Complete your project by exporting files ready for production, optimized for art
 - Optimal part placement with minimal scrap
 
 ---
+## How It Works
 
+### **Step 1: Design Creation**
+1. Launch WoodWorking Wizard from Fusion 360's Create panel
+2. Select project type (Cabinet or Toekick)
+3. Enter dimensions and material specifications
+4. Choose interior options (shelves, drawers, doors)
+5. Wizard automatically creates parametric 3D model
+
+### **Step 2: Cut List Generation**
+1. Select bodies from your design
+2. Choose measurement units (mm/cm/in)
+3. Enable nesting layout optimization
+4. Configure sheet sizes and cutting parameters
+5. Generate comprehensive CSV cut list with quantities
+
+### **Step 3: 3D Visualization**
+1. View optimized sheet layouts in 3D
+2. Inspect part placement and spacing
+3. Verify material assignments and quantities
+4. Export for production planning
+
+### **Step 4: Production**
+1. Use cut list for material ordering
+2. Follow 3D layout for efficient cutting
+3. Reference part dimensions for assembly
+4. Track material usage and waste
+---
 ## Technical Specifications
 
 ### **System Requirements**
