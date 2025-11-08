@@ -10,16 +10,17 @@ Wood Working Wizard Plugin for Fusion 360.
 - **Individual Height Control**: Set specific drawer heights or use intelligent auto-distribution
 - **Advanced Groove System**: Precision groove cutting in front, left, and right pieces for perfect base panel assembly
 - **Slide Clearance Management**: Configurable clearance on both sides for different slide hardware types
+  
+![Drawer](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/5.jpg?raw=true)
 
 #### **Front Panel Innovation**
 - **Complete Face Coverage**: Front panels cover the entire cabinet opening area (excluding top/bottom panels)
 - **Perfect Drawer Alignment**: Each front panel section automatically centers on its corresponding drawer
 - **User-Controlled Spacing**: Configurable gaps between front panel sections for professional appearance
 - **Uniform Sizing**: All front panel sections have equal height for consistent, high-end look
-  <img src="[markdownmonstericon.png](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/5.jpg)"
-     alt="Drawer Image"
-     style="float: left; margin-right: 10px;" />
 
+
+![4](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/4.jpg?raw=true)
 
 #### **Door System Improvements**
 - **Corrected Positioning**: Fixed critical issue where doors appeared on floor instead of cabinet front
@@ -141,12 +142,17 @@ Complete your project by exporting files ready for production, optimized for art
 4. Choose interior options (shelves, drawers, doors)
 5. Wizard automatically creates parametric 3D model
 
+![1](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/1.jpg?raw=true)
+
 ### **Step 2: Cut List Generation**
 1. Select bodies from your design
 2. Choose measurement units (mm/cm/in)
 3. Enable nesting layout optimization
 4. Configure sheet sizes and cutting parameters
 5. Generate comprehensive CSV cut list with quantities
+
+![6](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/6.jpg?raw=true)
+
 
 ### **Step 3: 3D Visualization**
 1. View optimized sheet layouts in 3D
