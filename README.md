@@ -16,6 +16,8 @@ Wood Working Wizard Plugin for Fusion 360.
 - **Perfect Drawer Alignment**: Each front panel section automatically centers on its corresponding drawer
 - **User-Controlled Spacing**: Configurable gaps between front panel sections for professional appearance
 - **Uniform Sizing**: All front panel sections have equal height for consistent, high-end look
+  
+https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/5.jpg
 
 #### **Door System Improvements**
 - **Corrected Positioning**: Fixed critical issue where doors appeared on floor instead of cabinet front
