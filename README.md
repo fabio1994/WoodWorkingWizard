@@ -1,6 +1,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License ](https://img.shields.io/badge/License-GPL_3.0-green)
-![Release](https://img.shields.io/badge/Release-V2.1.1-green)
+![Release](https://img.shields.io/badge/Release-V2.1.3-green)
 
 
 # WoodWorkingWizard
