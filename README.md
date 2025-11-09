@@ -6,7 +6,7 @@
 # WoodWorkingWizard
 Wood Working Wizard Plugin for Fusion 360.
 
-## 🚀 What's New in Version 2.1.1
+## 🚀 What's New in Version 2.1.3
 
 ### **Major Feature Enhancements**
 
