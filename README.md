@@ -65,7 +65,7 @@ Complete your project by exporting files ready for production, optimized for art
 
 ### 🛠️ **Automated Cabinet Creation**
 
-**Complete Cabinet System** ⭐ *Enhanced in v2.1.1*
+**Complete Cabinet System** ⭐ *Enhanced in v2.1.3*
 - Full cabinet structures: base, sides, back, top with precision insets
 - Interior options: shelves, advanced drawers, or structure-only
 - Smart material thickness calculations throughout
@@ -74,7 +74,7 @@ Complete your project by exporting files ready for production, optimized for art
   
 ![Cabinets](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Cabinets%20with%20drawers.png?raw=true)
 
-**Advanced Drawer System** ⭐ *NEW in v2.1.1*
+**Advanced Drawer System** ⭐ *NEW in v2.1.3*
 - **5-Piece Construction**: Front, back, left, right, and base panels
 - **Precision Groove Cutting**: Automated grooves in front and side pieces for base assembly  
 - **Custom Depth Control**: User-selectable depths with automatic validation against cabinet limits
@@ -84,14 +84,14 @@ Complete your project by exporting files ready for production, optimized for art
 
 ![Exploded](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Drawer%20exploded.png?raw=true)
   
-**Front Panel System** ⭐ *NEW in v2.1.1*
+**Front Panel System** ⭐ *NEW in v2.1.3*
 - **Full Face Coverage**: Panels cover entire cabinet face excluding top/bottom
 - **Perfect Alignment**: Each panel section centers automatically on its drawer
 - **User-Controlled Spacing**: Configurable gaps between front panel sections
 - **Uniform Appearance**: Equal-height panels for professional, high-end look
 - **Material Matching**: Front panels use same thickness as drawer components
 
-**Smart Door Generation** ⭐ *Enhanced in v2.1.1*
+**Smart Door Generation** ⭐ *Enhanced in v2.1.3*
 - **Corrected Positioning**: Doors now appear at cabinet front (fixed floor placement bug)
 - **Single & Double Options**: Choose between single full-width or double half-width doors
 - **Realistic Display**: 45° open position for better visualization
