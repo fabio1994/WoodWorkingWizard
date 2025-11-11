@@ -56,6 +56,9 @@ Add finishes, joints, and unique materials to model your piece, leveraging speci
 ### Step Three: Export and Produce
 Complete your project by exporting files ready for production, optimized for artisanal manufacturing and workshop use.
 
+![45secods](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/45%20seconds%20chest%20of%20drawers.gif?raw=true)
+
+
 ---
 
 ## Product Features
