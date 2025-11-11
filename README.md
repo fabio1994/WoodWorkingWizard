@@ -16,7 +16,7 @@ Wood Working Wizard Plugin for Fusion 360.
 - **Advanced Groove System**: Precision groove cutting in front, left, and right pieces for perfect base panel assembly
 - **Slide Clearance Management**: Configurable clearance on both sides for different slide hardware types
   
-![Drawer](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/5.jpg?raw=true)
+![Drawer](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Drawer%20Slide%20view.png?raw=true)
 
 #### **Front Panel Innovation**
 - **Complete Face Coverage**: Front panels cover the entire cabinet opening area (excluding top/bottom panels)
@@ -25,13 +25,15 @@ Wood Working Wizard Plugin for Fusion 360.
 - **Uniform Sizing**: All front panel sections have equal height for consistent, high-end look
 
 
-![4](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/4.jpg?raw=true)
+![4](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Cabinet%20with%20drawers%20open.png?raw=true)
 
 #### **Door System Improvements**
 - **Corrected Positioning**: Fixed critical issue where doors appeared on floor instead of cabinet front
 - **Realistic Visualization**: Doors display in 45° open position for better design review
 - **Enhanced Double Doors**: Proper hinge points (left door hinges left, right door hinges right)
 - **Material Consistency**: Doors automatically match cabinet material thickness
+- 
+![Doors](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Cabinet%20with%20doors.png?raw=true)
 
 #### **Parameter Validation System**
 - **Real-Time Validation**: Live constraint checking prevents impossible configurations
@@ -66,6 +68,8 @@ Complete your project by exporting files ready for production, optimized for art
 - Smart material thickness calculations throughout
 - Auto-generated Fusion 360 parameters for all dimensions
 - Real-time parameter validation with constraint checking
+  
+![Cabinets](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Cabinets%20with%20drawers.png?raw=true)
 
 **Advanced Drawer System** ⭐ *NEW in v2.1.1*
 - **5-Piece Construction**: Front, back, left, right, and base panels
@@ -75,6 +79,8 @@ Complete your project by exporting files ready for production, optimized for art
 - **Slide Clearance**: Configurable clearance on both sides for various slide hardware
 - **Smart Base Assembly**: Base panel sized to fit into grooves perfectly
 
+![Exploded](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Drawer%20exploded.png?raw=true)
+  
 **Front Panel System** ⭐ *NEW in v2.1.1*
 - **Full Face Coverage**: Panels cover entire cabinet face excluding top/bottom
 - **Perfect Alignment**: Each panel section centers automatically on its drawer
@@ -93,6 +99,8 @@ Complete your project by exporting files ready for production, optimized for art
 - Hollow frame structures with precise measurements
 - Four-piece construction with perfect corner joints
 - Customizable height, depth, and thickness settings
+
+![Toekick](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Toekick.png?raw=true)
 
 **Multi-Unit Support**
 - Work seamlessly in millimeters, centimeters, or inches
@@ -116,6 +124,9 @@ Complete your project by exporting files ready for production, optimized for art
 - "Panels (Grouped by Sheet)" section for efficient production planning
 - Material preservation from original components
 - Accurate quantity calculations with waste reporting
+- Considering material thickness (dedicated sheets for different thicknesses)
+ 
+![Toekick](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Nesting%20Gif.gif?raw=true)
 
 ### ⚙️ **3D Visualization & Production Planning**
 
