@@ -181,6 +181,9 @@ Complete your project by exporting files ready for production, optimized for art
 2. Follow 3D layout for efficient cutting
 3. Reference part dimensions for assembly
 4. Track material usage and waste
+
+![6](https://github.com/fabio1994/WoodWorkingWizard/blob/main/Images/Cutlist.jpg?raw=true)
+
 ---
 ## Technical Specifications
 
