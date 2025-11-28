@@ -156,6 +156,9 @@ Complete your project by exporting files ready for production, optimized for art
 ---
 ## How It Works
 
+### **White Ghost Shop review and explanation**
+[![Guarda il video](https://img.youtube.com/vi/GcoR1ZPg898/maxresdefault.jpg)](https://youtu.be/GcoR1ZPg898)
+
 ### **Step 1: Design Creation**
 1. Launch WoodWorking Wizard from Fusion 360's Create panel
 2. Select project type (Cabinet or Toekick)
