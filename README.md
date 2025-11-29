@@ -11,7 +11,7 @@ Wood Working Wizard Plugin for Fusion 360.
 ## Do you have an idea that you would like to see in the next release?
 
 ### **Add it to the discussion!**  
-👉 https://github.com/fabio1994/WoodWorkingWizard/discussions/6
+👉 https://github.com/fabio1994/WoodWorkingWizard/discussions
 
 ###  📊 The ideas will be collected in a poll and the most voted will be implemented!
 👉 https://github.com/fabio1994/WoodWorkingWizard/discussions/7
