@@ -1,7 +1,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License ](https://img.shields.io/badge/License-GPL_3.0-green)
 ![Release](https://img.shields.io/badge/Release-V2.1.3-green)
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fabio1994/WoodWorkingWizard/latest/total?label=Downloads)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fabio1994/WoodWorkingWizard/total?label=Downloads)
 
 
 
