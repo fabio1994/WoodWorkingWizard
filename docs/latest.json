@@ -1,7 +1,7 @@
 {
   "product": "WoodWorkingWizard",
-  "latestVersion": "2.1.3",
+  "latestVersion": "2.1.4",
   "minCompatible": "2.0.0",
-  "zipUrl": "https://github.com/fabio1994/WoodWorkingWizard/releases/download/v2.1.3/Distribution-2.1.3.zip",
-  "zipSha256": "ed81d8f960dc1f6ea44411e9ae750250cba49b2789fc55b423b80a311955b4cd"
+  "zipUrl": "https://github.com/fabio1994/WoodWorkingWizard/releases/download/v2.1.4/Distribution-2.1.4.zip",
+  "zipSha256": "2f0ae430deb5b7d79c1eeab14ebdddb1946d45cda7b9a4d352fc0356f3891747"
 }
