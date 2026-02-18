@@ -16,9 +16,13 @@ Wood Working Wizard Plugin for Fusion 360.
 ###  📊 The ideas will be collected in a poll and the most voted will be implemented!
 👉 https://github.com/fabio1994/WoodWorkingWizard/discussions/7
 
+## 🚀 What's New in Version 2.1.4
 
+### **Major Feature Enhancements**
+- **Fixed Drawers base depth** so now you can fix your base to the drawer!
+- **Minor Bug Adjustments** 
 
-## 🚀 What's New in Version 2.1.3
+## What's New in Version 2.1.3
 
 ### **Major Feature Enhancements**
 
