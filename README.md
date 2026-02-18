@@ -3,10 +3,17 @@
 ![Release](https://img.shields.io/badge/Release-V2.1.3-green)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fabio1994/WoodWorkingWizard/total?label=Downloads)
 
-
-
 # WoodWorkingWizard
 Wood Working Wizard Plugin for Fusion 360.
+
+
+<img width="1280" height="136" alt="202004-kickstarter-logo-green" src="https://github.com/user-attachments/assets/9295c02c-ec71-4341-a5cf-edb90a7ae6ee" />
+
+# WoodWorkingWizard PRO is now live on KickStarter!
+We've added many more features like wardorobes, shelf, attic furniture and many more functions!
+Go and check out the campaign before it ends, and grab your PRO version discounted of 50% before it ends!
+
+[KickStarter Campaign](https://www.kickstarter.com/projects/woodworkingwizardpro/wood-working-wizard-pro)
 
 ## Do you have an idea that you would like to see in the next release?
 
