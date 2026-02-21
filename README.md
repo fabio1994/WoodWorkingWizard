@@ -1,8 +1,8 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License ](https://img.shields.io/badge/License-GPL_3.0-green)
 ![Release](https://img.shields.io/badge/Release-V2.1.5-green)
+![Plugin Status](https://img.shields.io/badge/Plugin_Status-Plugin_Fixed-yellow)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fabio1994/WoodWorkingWizard/total?label=Downloads)
-
 
 <img width="1280" height="136" alt="202004-kickstarter-logo-green" src="https://github.com/user-attachments/assets/9295c02c-ec71-4341-a5cf-edb90a7ae6ee" />
 
@@ -19,6 +19,8 @@ Standard version will remain free forever, and also available on the Autodesk Ap
 🍏 [Free version - macOs - Autodesk Appstore](https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Mac&appLang=en)
 
 # 🐛 LICENSING BUG FIX
+![Autodesk AppStore](https://img.shields.io/badge/Autodesk_Appstore_Release-2.1.3-orange)
+![Autodesk AppStore](https://img.shields.io/badge/Autodesk_Appstore_New_Release-In_Progress-green)
 
 If you're a Windows user:
 Browse to:
