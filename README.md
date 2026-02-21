@@ -3,9 +3,6 @@
 ![Release](https://img.shields.io/badge/Release-V2.1.5-green)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fabio1994/WoodWorkingWizard/total?label=Downloads)
 
-# WoodWorkingWizard
-Wood Working Wizard Plugin for Fusion 360.
-
 
 <img width="1280" height="136" alt="202004-kickstarter-logo-green" src="https://github.com/user-attachments/assets/9295c02c-ec71-4341-a5cf-edb90a7ae6ee" />
 
@@ -20,6 +17,40 @@ Standard version will remain free forever, and also available on the Autodesk Ap
 🪟 [Free version - Windows - Autodesk Appstore](https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Win64&appLang=en)
 
 🍏 [Free version - macOs - Autodesk Appstore](https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Mac&appLang=en)
+
+# 🐛 LICENSING BUG FIX
+
+If you're a Windows user:
+Browse to:
+- C:\Users\USER\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns
+Delete the entire folder WoodWorkingWizard.
+
+- C:\Users\ USER  \AppData\Roaming\Autodesk\ApplicationPlugins
+Delete the entire folder WoodWorkingWizard.bundle
+
+Download the official release from the autodesk appstore:
+
+https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&appLang=en&os=Win64
+
+
+If you're a macOS user:
+
+Open terminal:
+- rm -rf ~/Library/Application\ Support/Autodesk/ApplicationPlugins/WoodWorkingWizard.bundle
+  
+Remove legacy versions:
+- rm -rf ~/Library/Application\ Support/Autodesk/Autodesk\ Fusion\ 360/API/AddIns/WoodWorkingWizard
+  
+Complete the cleanup:
+- sudo pkgutil --forget com.fabio.woodworkingwizard
+
+Download the official release from the autodesk appstore:
+
+https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Mac&appLang=en
+
+**Following this guide you will come back to version 2.1.3.**
+
+Notice that version 2.1.5 has been already submitted, fixing all the errors, will be available on the autodesk appstore in the upcoming days.
 
 # SUGGESTION! 🟢
 Install the plugin directly from the Autodesk app store, so you're always shure to have the last release without development bug!
