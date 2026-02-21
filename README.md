@@ -1,6 +1,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License ](https://img.shields.io/badge/License-GPL_3.0-green)
-![Release](https://img.shields.io/badge/Release-V2.1.3-green)
+![Release](https://img.shields.io/badge/Release-V2.1.5-green)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fabio1994/WoodWorkingWizard/total?label=Downloads)
 
 # WoodWorkingWizard
@@ -21,7 +21,13 @@ Standard version will remain free forever, and also available on the Autodesk Ap
 
 🍏 [Free version - macOs - Autodesk Appstore](https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Mac&appLang=en)
 
-## 🚀 What's New in Version 2.1.4
+## 🚀 What's New in Version 2.1.5
+
+- Removed license requirement bug: the tool is completely free
+- No license key needed
+- Bug fixes and improvements
+
+## What's New in Version 2.1.4
 
 ### **Major Feature Enhancements**
 - **Fixed Drawers base depth** so now you can fix your base to the drawer!
