@@ -27,16 +27,20 @@ Standard version will remain free forever, and also available on the Autodesk Ap
 - No license key needed
 - Bug fixes and improvements
 
+🔴❗**KNOWN ISSUE** ❗🔴
+
+Some Users (macOS mainly) are experiencing some issues during the installation of the new release. Kindly be patient, and close the annoying popup for the update, we're releasing the new version on the Autodesk Store. Once available, you can download it from there and delete the old version if needed.
+The issue will be solved once forever, avoiding it also for the upcoming releases. Thanks for your patience!❤️
+
+# SUGGESTION! # 🟢
+Install the plugin directly from the Autodesk app store, so you're always shure to have the last release without development bug!
+
 ## What's New in Version 2.1.4
 
 ### **Major Feature Enhancements**
 - **Fixed Drawers base depth** so now you can fix your base to the drawer!
 - **Minor Bug Adjustments** 
 
-🔴❗**KNOWN ISSUE** ❗🔴
-
-Some Users (macOS mainly) are experiencing some issues during the installation of the new release. Kindly be patient, and close the annoying popup for the update, we're releasing the new version on the Autodesk Store. Once available, you can download it from there and delete the old version if needed.
-The issue will be solved once forever, avoiding it also for the upcoming releases. Thanks for your patience!❤️
 
 ## Do you have an idea that you would like to see in the next release?
 
