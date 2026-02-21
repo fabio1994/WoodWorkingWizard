@@ -66,12 +66,6 @@ Install the plugin directly from the Autodesk app store, so you're always shure 
 Some Users (macOS mainly) are experiencing some issues during the installation of the new release. Kindly be patient, and close the annoying popup for the update, we're releasing the new version on the Autodesk Store. Once available, you can download it from there and delete the old version if needed.
 The issue will be solved once forever, avoiding it also for the upcoming releases. Thanks for your patience!❤️
 
-## What's New in Version 2.1.4
-
-### **Major Feature Enhancements**
-- **Fixed Drawers base depth** so now you can fix your base to the drawer!
-- **Minor Bug Adjustments** 
-
 
 ## Do you have an idea that you would like to see in the next release?
 
