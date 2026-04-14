@@ -1,72 +1,22 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License ](https://img.shields.io/badge/License-GPL_3.0-green)
-![Release](https://img.shields.io/badge/Release-V2.1.5-green)
+![Release](https://img.shields.io/badge/Release-V2.2.0-green)
 ![Plugin Status](https://img.shields.io/badge/Plugin_Status-Released-green)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fabio1994/WoodWorkingWizard/total?label=Downloads)
 
-<img width="1280" height="136" alt="202004-kickstarter-logo-green" src="https://github.com/user-attachments/assets/9295c02c-ec71-4341-a5cf-edb90a7ae6ee" />
-
-# WoodWorkingWizard **PRO** is now live on KickStarter!
-We've added many more features like wardorobes, shelf, attic furniture and many more functions!
-Go and check out the campaign before it ends, and grab your PRO version discounted of 50% before it ends!
-
-[KickStarter Campaign](https://www.kickstarter.com/projects/woodworkingwizardpro/wood-working-wizard-pro)
-
-Standard version will remain free forever, and also available on the Autodesk Appstore!
-
-🪟 [Free version - Windows - Autodesk Appstore](https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Win64&appLang=en)
-
-🍏 [Free version - macOs - Autodesk Appstore](https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Mac&appLang=en)
-
-# 🐛 LICENSING BUG FIX
-![Autodesk AppStore](https://img.shields.io/badge/Autodesk_Appstore_Release-2.1.5-green)
-![Autodesk AppStore](https://img.shields.io/badge/Autodesk_Appstore_New_Release-Done-green)
-
-If you're a Windows user:
-Browse to:
-- C:\Users\USER\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns
-Delete the entire folder WoodWorkingWizard.
-
-- C:\Users\ USER  \AppData\Roaming\Autodesk\ApplicationPlugins
-Delete the entire folder WoodWorkingWizard.bundle
-
-Download the official release from the autodesk appstore:
-
-https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&appLang=en&os=Win64
-
-
-If you're a macOS user:
-
-Open terminal:
-- rm -rf ~/Library/Application\ Support/Autodesk/ApplicationPlugins/WoodWorkingWizard.bundle
-  
-Remove legacy versions:
-- rm -rf ~/Library/Application\ Support/Autodesk/Autodesk\ Fusion\ 360/API/AddIns/WoodWorkingWizard
-  
-Complete the cleanup:
-- sudo pkgutil --forget com.fabio.woodworkingwizard
-
-Download the official release from the autodesk appstore:
-
-https://apps.autodesk.com/FUSION/it/Detail/Index?id=9122883900415259794&os=Mac&appLang=en
-
-**Following this guide you will come back to version 2.1.3.**
-
-Notice that version 2.1.5 has been already submitted, fixing all the errors, will be available on the autodesk appstore in the upcoming days.
-
-# SUGGESTION! 🟢
-Install the plugin directly from the Autodesk app store, so you're always shure to have the last release without development bug!
-
-## 🚀 What's New in Version 2.1.5
+## 🚀 What's New in Version 2.2.0
 
 - Removed license requirement bug: the tool is completely free
 - No license key needed
 - Bug fixes and improvements
+- Added option to upgrade to Wood Working Wizard PRO
 
-🔴❗**KNOWN ISSUE** ❗🔴
+# SUGGESTION! 🟢
+Install the plugin directly from the Autodesk app store, so you're always shure to have the last release without development bug!
 
-Some Users (macOS mainly) are experiencing some issues during the installation of the new release. Kindly be patient, and close the annoying popup for the update, we're releasing the new version on the Autodesk Store. Once available, you can download it from there and delete the old version if needed.
-The issue will be solved once forever, avoiding it also for the upcoming releases. Thanks for your patience!❤️
+##  What's New in Version 2.1.5
+
+- Bug fixes and improvements
 
 
 ## Do you have an idea that you would like to see in the next release?
